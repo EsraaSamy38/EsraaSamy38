@@ -1,9 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
+![Hi! I"m Esraa](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/trilokia.svg)
 
-## Hi, I'm Esraa!👋
-                                                                                                  اضيف اللون فوق الريد مي
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Esraa+of+text;Second+line+of+text)](https://git.io/typing-svg)
 Whatever I do, I do with perfection
 
 - I'm a Computer Engeneering student at Jeddah university.
