@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Esraa!👋
 
 <!--
 **EsraaSamy38/EsraaSamy38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+computer engeneering student at jeddah university
+in love with numbers and making them a story for evryone to get 
+my fav dada analisist project ()
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
