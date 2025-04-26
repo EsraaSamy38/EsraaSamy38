@@ -12,7 +12,7 @@
 <p align="center">
    🎓 Computer Engineering Student at Jeddah University <br>
  📊 Passionate about turning numbers into stories anyone can understand <br>
-🚀 On a self-driven journey to master advanced data analysis and visualization <br>
+🚀 On a self-driven journey to master advanced data analysis and visualization tools <br>
 💡 Fast learner, passionate about tech, and love collaborating with others!   <br>
 🎈 Fun fact: I love teaching! I’m also an online Arabic tutor!  <br>
 
