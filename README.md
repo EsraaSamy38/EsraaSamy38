@@ -34,6 +34,6 @@
 
 # 📪 Connect
 
- [LinkedIn](linkedin.com/in/esraa-samy-7b3b4a35b) | [Email](mailto:esraa38samy@gmail.com)  
+ [LinkedIn](https://linkedin.com/in/esraa-samy-7b3b4a35b) | [Email](mailto:esraa38samy@gmail.com)  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B194D&height=120&section=footer" alt="footer"/>
 
