@@ -24,15 +24,16 @@
 
 # 💻 Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,js,mysql,py" />
+  </a>
 </p>
+
 <br>
 
 # 📪 Connect
+
  [LinkedIn](linkedin.com/in/esraa-samy-7b3b4a35b) | [Email](esraa38samy@gmail.com)  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B194D&height=120&section=footer" alt="footer"/>
 
