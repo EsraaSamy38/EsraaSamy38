@@ -28,8 +28,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 </p>
+<br>
 
-📫 **Connect**: [LinkedIn](...) | [Email](mailto:...)  
+# 📪 Connect
+ [LinkedIn](...) | [Email](mailto:...)  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B194D&height=120&section=footer" alt="footer"/>
 
 <p align="center">
