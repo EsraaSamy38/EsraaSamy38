@@ -9,11 +9,11 @@
 </p>
   <br>
 
-
-  - 🎓 Computer Engineering Student at Jeddah University <br>
-  - 📊 Passionate about turning numbers into stories anyone can understand <br>
-  - 🚀 Currently learning advanced data analysis and visualization tools <br>
-  - 💬 Fun fact: I love teaching! I’m also an online Arabic tutor!  
+<p align="center">
+   🎓 Computer Engineering Student at Jeddah University <br>
+ 📊 Passionate about turning numbers into stories anyone can understand <br>
+🚀 Currently learning advanced data analysis and visualization tools <br>
+💬 Fun fact: I love teaching! I’m also an online Arabic tutor!  
 </p>
 
 
