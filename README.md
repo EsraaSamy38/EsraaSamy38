@@ -10,10 +10,10 @@
   <br>
 
 
-  🎓 Computer Engineering Student at Jeddah University <br>
-  📊 Passionate about turning numbers into stories anyone can understand <br>
-  🚀 Currently learning advanced data analysis and visualization tools <br>
-  💬 Fun fact: I love teaching! I’m also an online Arabic tutor!  
+  - 🎓 Computer Engineering Student at Jeddah University <br>
+  - 📊 Passionate about turning numbers into stories anyone can understand <br>
+  - 🚀 Currently learning advanced data analysis and visualization tools <br>
+  - 💬 Fun fact: I love teaching! I’m also an online Arabic tutor!  
 </p>
 
 
@@ -32,4 +32,5 @@
 📫 **Connect**: [LinkedIn](...) | [Email](mailto:...)  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B194D&height=120&section=footer" alt="footer"/>
 
+<p align="center">
 
