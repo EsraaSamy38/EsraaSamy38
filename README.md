@@ -26,7 +26,7 @@
 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,mysql,py" />
+    <img src="https://skillicons.dev/icons?i=c,java,mysql,py" />
   </a>
 </p>
 
