@@ -1,7 +1,7 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B194D&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C7B58A&height=120&section=header" alt="header"/> 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=50&duration=4000&pause=1000&color=D9BED1&center=true&vCenter=true&width=600&repeat=false&lines=Hi,+I'm+Esraa!+++++" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=50&duration=4000&pause=1000&color=E6DCC0&center=true&vCenter=true&width=600&repeat=false&lines=Hi,+I'm+Esraa!+++++" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -35,5 +35,5 @@
 # 📪 Connect
 
  [LinkedIn](https://linkedin.com/in/esraa-samy-7b3b4a35b) | [Email](mailto:esraa38samy@gmail.com)  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B194D&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C7B58A&height=120&section=footer" alt="footer"/>
 
